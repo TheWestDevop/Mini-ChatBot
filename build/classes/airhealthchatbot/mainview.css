@@ -1,0 +1,20 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-background-images:url('../10.jpg');
+    -fx-background-size: cover; 
+}
+.text-area{
+    -fx-background-image:url('../10.jpg');
+    -fx-background-size:cover;
+}
+.anchor-pane .text-area{
+    -fx-background-color:transparent;
+    
+}
+
+.scroll-pane .anchor-pane .text-area {
+    -fx-background-color:transparent;
+}

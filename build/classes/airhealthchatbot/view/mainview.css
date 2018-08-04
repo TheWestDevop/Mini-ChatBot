@@ -1,0 +1,20 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    
+}
+.MsgArea{
+    -fx-background-images:url('08.jpg');
+    -fx-background-size: cover;    
+    }
+    .MsgArea{
+    -fx-background-images:url('10.jpg');
+    -fx-background-size: cover;    
+    }
+    .MsgArea{
+    -fx-background-images:url('02.jpg');
+    -fx-background-size: cover;  
+   
+    }
